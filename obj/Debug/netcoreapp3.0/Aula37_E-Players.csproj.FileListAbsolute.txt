@@ -33,3 +33,5 @@ C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Aula37_E-Players
 C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Aula37_E-Players.dll
 C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Aula37_E-Players.pdb
 C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Aula37_E-Players.csproj.CopyComplete
+C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Razor\Views\Equipe\index.cshtml.g.cs
+C:\Users\senai\Desktop\Aula37_E-Players\obj\Debug\netcoreapp3.0\Razor\Views\Noticia\index.cshtml.g.cs

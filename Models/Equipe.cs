@@ -21,10 +21,10 @@ namespace Aula37_E_Players.Models
         }
 
         
-        /// <summary>
-        /// Prepara a linha para receber as informações de equipe
-        /// </summary>
-        /// <param name="e"></param>
+       /// <summary>
+       /// Prepara a linha para receber as informações de equipe
+       /// </summary>
+       /// <param name="e"></param>
       public void Create(Equipe e){
             string[] linha = { PrepararLinha (e) };
             File.AppendAllLines(PATH, linha);
@@ -34,8 +34,8 @@ namespace Aula37_E_Players.Models
             return $"{e.IdEquipe};{e.Nome};{e.Imagem}";
         }
 
-          /// <summary>
-        /// Cria uma lista e separa os dados de equipe por ; 
+        /// <summary>
+        ///  Cria uma lista e separa os dados de equipe por ; 
         /// </summary>
         /// <returns></returns>
         public List<Equipe> ReadAll()

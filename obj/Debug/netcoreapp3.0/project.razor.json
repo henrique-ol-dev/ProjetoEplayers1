@@ -14379,6 +14379,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\senai\\Desktop\\Aula37_E-Players\\Views\\Equipe\\index.cshtml",
+      "TargetPath": "Views\\Equipe\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\senai\\Desktop\\Aula37_E-Players\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -14386,6 +14391,11 @@
     {
       "FilePath": "c:\\Users\\senai\\Desktop\\Aula37_E-Players\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\senai\\Desktop\\Aula37_E-Players\\Views\\Noticia\\index.cshtml",
+      "TargetPath": "Views\\Noticia\\index.cshtml",
       "FileKind": "mvc"
     },
     {
