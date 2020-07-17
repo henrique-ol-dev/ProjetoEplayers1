@@ -33,7 +33,7 @@ namespace Aula37_E_Players.Controllers
 
             // Upload Início
             var file    = form.Files[0];
-            var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+            var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Noticia");
 
             if(file != null)
             {

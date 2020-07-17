@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -32,7 +31,7 @@ namespace Aula37_E_Players.Controllers
 
             // Upload Início
             var file    = form.Files[0];
-            var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+            var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipe");
 
             if(file != null)
             {
@@ -76,4 +75,3 @@ namespace Aula37_E_Players.Controllers
 
     }
 }
-
